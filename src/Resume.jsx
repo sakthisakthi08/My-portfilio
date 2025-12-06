@@ -9,19 +9,23 @@ const Resume = () => {
           Want to know more about my experience and skills? You can view or download my resume below.
         </p>
         <div className="resume-buttons block">
-          <a
-            href="/public/sakthi-resum.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="view-btn"
-          >
-            View Resume
-          </a>
-          <a
-            href="/public/sakthi-resum.pdf" download className="download-btn"
-          >
-            Download Resume
-          </a>
+      <a
+  href="/sakthi-resum.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="view-btn"
+>
+  View Resume
+</a>
+
+<a
+  href="/sakthi-resum.pdf"
+  download
+  className="download-btn"
+>
+  Download Resume
+</a>
+
         </div>
       </div>
     </section>
