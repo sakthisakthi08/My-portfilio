@@ -10,7 +10,7 @@ const Resume = () => {
         </p>
         <div className="resume-buttons block">
           <a
-            href="/Assets/MyResume.pdf"
+            href="/public/sakthi-resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="view-btn"
@@ -18,7 +18,7 @@ const Resume = () => {
             View Resume
           </a>
           <a
-            href="/Assets/MyResume.pdf" download className="download-btn"
+            href="/public/sakthi-resume.pdf" download className="download-btn"
           >
             Download Resume
           </a>

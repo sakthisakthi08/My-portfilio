@@ -13,7 +13,7 @@ const Contact = () => {
 
       <div className="contact-icons">
         <a
-          href="https://www.linkedin.com/in/sakthisakthi08/"
+          href="https://github.com/sakthisakthi08/My-portfilio"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub"
@@ -21,7 +21,7 @@ const Contact = () => {
           <FaGithub className="icon github-icon block" />
         </a>
         <a
-          href="www.linkedin.com/in/ksakthi-vel0812"
+          href="https://www.linkedin.com/in/ksakthi-vel0812/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="LinkedIn"

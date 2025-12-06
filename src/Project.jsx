@@ -14,7 +14,7 @@ const projects = [
     title:"Weather-App",
      description:
       "A clean and responsive React-based login page with smooth UI and fast authentication flow.",
-    tech: ["Html", "CSS",],
+    tech: ["Html", "CSS","Javascript"],
     demoLink: "https://weather-app-sage-three-87.vercel.app/",
     githubLink: "https://github.com/sakthisakthi08/weather-app",
     image: "Weather.png",
