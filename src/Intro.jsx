@@ -20,8 +20,8 @@ const Intro = () => {
 
                 <p className="intro-description">
                     I’m a passionate Frontend Developer and a recent CSE graduate with strong skills in building clean, responsive, and user-friendly web applications. I have developed projects like a Food Delivery Website, Instagram UI Clone, EB Bill Calculator, and multiple Login & Signup pages.
-I work with React, JavaScript, and basic backend concepts as I continue learning the MERN stack.
-As a fresher, I’m eager to learn, build real-world applications, and grow into a full-stack developer.
+                    I work with React, JavaScript, and basic backend concepts as I continue learning the MERN stack.
+                    As a fresher, I’m eager to learn, build real-world applications, and grow into a full-stack developer.
                 </p>
 
                 <div className="contact-info ">
@@ -34,18 +34,18 @@ As a fresher, I’m eager to learn, build real-world applications, and grow into
                         <FaGithub className="icon github-icon" />
                     </a>
                     <a
-                        href="www.linkedin.com/in/ksakthi-vel0812"
+                        href="https://www.linkedin.com/in/ksakthi-vel0812/"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="LinkedIn"
                     >
                         <FaLinkedin className="icon linkedin-icon" />
                     </a>
-                    <a href="ksakthictbecse@gmail.com" aria-label="Email">
+                    <a href="mailto:ksakthictbecse@gmail.com" aria-label="Email">
                         <MdEmail className="icon email-icon" />
                     </a>
                     <a
-                        href="https://wa.me/918608146276"
+                        href="https://wa.me/917904685928"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="WhatsApp"
