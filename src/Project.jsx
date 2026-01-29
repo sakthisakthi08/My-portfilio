@@ -1,5 +1,14 @@
 import React from "react";
 const projects = [
+  {
+    title: "Web-baner",
+    description:
+      "This cake website is an online platform where customers can easily browse, select, and order delicious cakes for all occasions.",
+    tech: ["HTML", "CSS"],
+    demoLink: "http://web-baner.vercel.app",
+    githubLink: "https://github.com/sakthisakthi08/web-baner",
+    image: "cake.jpg"
+  },
    {
     title: "EB Bill Calculator",
     description:
