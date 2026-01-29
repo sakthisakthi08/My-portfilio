@@ -6,7 +6,7 @@ const Intro = () => {
     return (
         <section className="intro-section " id="intro">
             <div className="profile-pic">
-                <img src="sakthi.png" />
+                <img src="Sakthi.png" />
             </div>
             <div className="desc ">
                 <h1>

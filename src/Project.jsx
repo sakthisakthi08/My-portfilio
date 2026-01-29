@@ -1,5 +1,14 @@
 import React from "react";
 const projects = [
+   {
+    title: "EB Bill Calculator",
+    description:
+      "A simple and responsive EB Bill Calculator that auto-generates Tamil Nadu EB style bill layout using user input such as EB number, name, units, amount, and address.",
+    tech: ["HTML", "CSS", "JavaScript"],
+    demoLink: "http://eb-calculater.vercel.app",
+    githubLink: "https://github.com/sakthisakthi08/Eb-calculater",
+    image: "Eb.jpg"
+  },
   {
     title:"Login Page",
      description:
@@ -29,15 +38,6 @@ const projects = [
     githubLink: "https://github.com/sakthisakthi08/InstagramClone",
     image: "instagram.jpg",
   },
-  {
-    title: "EB Bill Calculator",
-    description:
-      "A simple and responsive EB Bill Calculator that auto-generates Tamil Nadu EB style bill layout using user input such as EB number, name, units, amount, and address.",
-    tech: ["HTML", "CSS", "JavaScript"],
-    demoLink: "http://eb-calculater.vercel.app",
-    githubLink: "https://github.com/sakthisakthi08/Eb-calculater",
-    image: "Eb.jpg"
-  } 
   
 ];
 
