@@ -1,4 +1,4 @@
-import React from "react";
+
 import { FaGithub, FaLinkedin, FaWhatsapp } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 
@@ -7,7 +7,7 @@ const Intro = () => {
     return (
         <section className="intro-section " id="intro">
             <div className="profile-pic">
-                <img src={profileImg} alt="profile" />
+            <img src="/Sakthi.png" alt="profile" />
             </div>
             <div className="desc ">
                 <h1>
