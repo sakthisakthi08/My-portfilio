@@ -13,7 +13,7 @@ const Contact = () => {
 
       <div className="contact-icons">
         <a
-          href="https://github.com/sakthisakthi08/My-portfilio"
+          href="https://github.com/sakthisakthi08/My-porfolio"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub"
